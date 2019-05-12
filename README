@@ -1,0 +1,3 @@
+MySql Backup Lite Class is a class written in PHP designed to backup a MySql
+database into a file. Once backup is done you can download it or save it on the
+disk.
